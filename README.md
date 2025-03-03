@@ -1,5 +1,5 @@
 <p align="center">
-     <img src="extensions/views/logo.svg" alt="Логотип проекта" width="600" style="display: inline-block; vertical-align: middle; margin-right: 10px;"/><br/>
+     <img src="extensions/views/salescore_logo.png" alt="Логотип проекта" width="600" style="display: inline-block; vertical-align: middle; margin-right: 10px;"/><br/>
 </p>
 
 
