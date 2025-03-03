@@ -118,17 +118,6 @@ poetry run streamlit run streamlit_app.py
 ```
 Сервис будет запущен по адресу `localhost:27368`
 
-## Screencast
-
-https://github.com/user-attachments/assets/3778f3e1-7410-4cbe-a873-70f484fd392f
-
-
-
-
-
-
-
-
 ## Использование
 
 ### Для руководителей отдела продаж:
@@ -140,3 +129,17 @@ https://github.com/user-attachments/assets/3778f3e1-7410-4cbe-a873-70f484fd392f
 - Анализируйте эффективность новых сотрудников на испытательном сроке
 - Определяйте перспективных кандидатов для повышения
 - Минимизируйте текучесть кадров за счёт персонализированного развития
+  
+
+## Screencast - проект до пивота
+
+https://github.com/user-attachments/assets/3778f3e1-7410-4cbe-a873-70f484fd392f
+
+
+
+
+
+
+
+
+
